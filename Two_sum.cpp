@@ -1,3 +1,6 @@
+//UID: 22BCS10472
+//Name:Diya Kanwar
+//Section : EPAM_802(A)
 #include <iostream>
 using namespace std;
 
